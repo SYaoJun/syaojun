@@ -1,7 +1,10 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessCheng&layout=compact&theme=tokyonight" alt="languages" height="177">
+</p>
 
 <!--
-**SYaoJun/syaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EndlessCheng/EndlessCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
