@@ -4,8 +4,8 @@
 </p>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on huawei
-- 🌱 I’m currently learning LeetCode & Codeforces
-- 📫 How to reach me: 940334249@qq.com
+- 🔭 Location: ChengDu
+- 🌱 Hobby：Reading & Coding
+- 📫 Contact me: 940334249@qq.com
+- 😄 WeChat: hysteria00544
+- 🌙 Dream：AK LeetCode 
