@@ -8,4 +8,5 @@
 - 🌱 Hobby：Reading & Coding
 - 📫 Contact me: 940334249@qq.com
 - 😄 WeChat: hysteria00544
-- 🌙 Dream：Be a Hero
+- 🌙 Dream：Be a Doctor
+- 🎉 WeMedia: 我不是匠人 
