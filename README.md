@@ -3,10 +3,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaojun&layout=compact&theme=tokyonight" alt="languages" height="177">
 </p>
 
+https://badgen.net/github/stars/snowdreams1006/gitbook-plugin-mygitalk
 
 - 🔭 Location: ChengDu
-- 🌱 Hobby：Reading & Coding
+- 🌱 Hobby：Reading & Hiking
 - 📫 Contact me: 940334249@qq.com
 - 😄 WeChat: hysteria00544
-- 🌙 Dream：Be a Doctor
-- 🎉 WeMedia: 我不是匠人 
