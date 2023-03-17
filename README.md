@@ -10,5 +10,3 @@
 - 公众号: 我不是匠人
 
 
-<img src="img/wechatblog.png" width = "500" height = "190" alt="公众号" align=center />
-
