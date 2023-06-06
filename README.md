@@ -1,6 +1,4 @@
 
-### Hi there 👋
-
 <p align='center'>
 <a href="https://github.com/syaojun/cppinterview" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/syaojun/cppinterview?label=Stars&style=flat-square&logo=GitHub"></a>
 <a href="https://mp.weixin.qq.com/s/YeyAgD52zCadtrdXLxrT9A" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-@%E6%88%91%E4%B8%8D%E6%98%AF%E5%8C%A0%E4%BA%BA-000000.svg?style=flat-square&logo=WeChat">
