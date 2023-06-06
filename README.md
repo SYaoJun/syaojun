@@ -11,6 +11,6 @@
 
 ### Contact me
 - Email: 940334249@qq.com
-- 公众号: 我不是匠人
+- wechat: hysteria00544
 
 
