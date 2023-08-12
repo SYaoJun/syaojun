@@ -9,5 +9,3 @@
 ### Contact me
 - Email: 940334249@qq.com
 - wechat: hysteria00544
-### Database Community
-![db-star](./img/star4.png)
