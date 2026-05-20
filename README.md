@@ -10,6 +10,7 @@ Here are the list of open source projects I have worked on:
 
 [![Commits to Apache GraphAR](https://img.shields.io/github/commit-activity/t/apache/graphar?authorFilter=syaojun&style=social&label=Apache%20Graphar)](https://github.com/apache/graphar/commits?author=syaojun) 
 [![Commits to Apache GeaFlow](https://img.shields.io/github/commit-activity/t/apache/geaflow?authorFilter=syaojun&style=social&label=Apache%20GeaFlow)](https://github.com/apache/geaflow/commits?author=syaojun)
+[![Commits to Apache HugeGraph-Toolchain](https://img.shields.io/github/commit-activity/t/apache/incubator-hugegraph-toolchain?authorFilter=syaojun&style=social&label=Apache%20HugeGraph-Toolchain)](https://github.com/apache/incubator-hugegraph-toolchain/commits?author=syaojun)
 
 [![Commits to mooncake](https://img.shields.io/github/commit-activity/t/kvcache-ai/Mooncake?authorFilter=syaojun&style=social&label=Mooncake)](https://github.com/kvcache-ai/Mooncake/commits?author=syaojun)
 [![Commits to lmcache](https://img.shields.io/github/commit-activity/t/LMCache/LMCache?authorFilter=syaojun&style=social&label=LMCache)](https://github.com/LMCache/LMCache/commits?author=syaojun)
