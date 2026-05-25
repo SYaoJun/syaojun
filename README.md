@@ -1,8 +1,6 @@
 ## Hi there 👋
-I'm Jun Yao(姚军), a software engineer working for Geely. I have broad interests in LLM storage and inference.
+I'm Jun Yao(姚军), a software engineer working for Geely. I have broad interests in LLM system.
 
-- 🎓 MS graduate from CQU
-- 👨‍💻 Formerly at Huawei/Bytedance
 - 💻 Apache GraphAr committer
 - 📮 WeChat: hysteria00544
 
